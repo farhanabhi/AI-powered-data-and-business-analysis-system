@@ -7,9 +7,21 @@
 
 A Flask-based web application for automated data analysis, visualization, and business insights powered by Python's AI/ML stack.
 
-![Dashboard Demo](screenshots/dashboard.png) *(Replace with actual screenshot)*  
+## 📸 Application Screenshots
 
----
+### 1. Data Upload Interface
+![Data Upload Screen](outputs/Screenshot%202025-05-03%20215348.png)
+
+### 2. Exploratory Data Analysis
+![EDA Results](outputs/Screenshot%202025-05-03%20215410.png)
+
+### 3. Visualization Dashboard
+![Analytics Dashboard](outputs/Screenshot%202025-05-03%20215446.png)
+
+![ML Results](outputs/Screenshot%202025-05-03%20215457.png)
+
+ Full System View
+![Complete Interface](outputs/Screenshot%202025-05-03%20215337.png)
 
 ## 🌟 Features  
 - **File Upload**: Supports CSV/Excel data ingestion  
